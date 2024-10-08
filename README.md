@@ -1,4 +1,4 @@
-This is Take Away Test Demo Solution built on .Net 8 using SQLite and NUnit and Moq for test. You can run it directly on VS Code or Studio, you can either use POSTMAN or built in .Net feature to test endpoint or Swagger. Due to time constraint no logging feature added at the moment nor enchance feature such as authentication/authorization or token services.
+This is a demo solution for the Take Away Test, built with .NET 8 using SQLite. It includes tests written with NUnit and Moq. You can run it directly in VS Code or Visual Studio, and test the API endpoints using either POSTMAN, .NET's built-in testing features, or Swagger. Due to time constraints, logging, authentication, authorization, and token services were not included. The primary focus of this project is to demonstrate REST API CRUD operations.
 
 Data Models
 
@@ -178,3 +178,4 @@ Data Models
   </tr>
 </table>
 
+Please run 
