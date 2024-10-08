@@ -178,4 +178,7 @@ Data Models
   </tr>
 </table>
 
-Please run 
+Please run to initialize database - create (if required)
+dotnet ef migrations add <name>
+dotnet ef database update         
+
