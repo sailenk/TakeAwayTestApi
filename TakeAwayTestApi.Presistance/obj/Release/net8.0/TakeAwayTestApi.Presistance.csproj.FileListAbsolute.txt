@@ -1,0 +1,14 @@
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\bin\Release\net8.0\TakeAwayTestApi.Presistance.deps.json
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\bin\Release\net8.0\TakeAwayTestApi.Presistance.runtimeconfig.json
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\bin\Release\net8.0\TakeAwayTestApi.Presistance.dll
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\bin\Release\net8.0\TakeAwayTestApi.Presistance.pdb
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.csproj.AssemblyReference.cache
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.AssemblyInfoInputs.cache
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.AssemblyInfo.cs
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.csproj.CoreCompileInputs.cache
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.dll
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\refint\TakeAwayTestApi.Presistance.dll
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.pdb
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\TakeAwayTestApi.Presistance.genruntimeconfig.cache
+D:\Practice\TakeAwayTestApi\takeawaytestapi.presistance\obj\Release\net8.0\ref\TakeAwayTestApi.Presistance.dll

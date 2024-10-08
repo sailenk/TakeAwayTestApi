@@ -1,0 +1,47 @@
+@TakeAwayTestApi_HostAddress = http://localhost:5025
+
+GET {{TakeAwayTestApi_HostAddress}}/api/listing/saved/{userId}/{pageNumber}/{pageSize}
+Accept: application/json
+
+###
+
+GET {{TakeAwayTestApi_HostAddress}}/api/listing/shortlisted/count/{propertyId}
+Accept: application/json
+
+###
+
+POST {{TakeAwayTestApi_HostAddress}}/api/listing/add
+Accept: application/json
+
+###
+
+POST {{TakeAwayTestApi_HostAddress}}/api/listing/update
+Accept: application/json
+
+###
+
+DELETE {{TakeAwayTestApi_HostAddress}}/api/listing/delete/{listingId}/{userId}
+Accept: application/json
+
+###
+
+GET {{TakeAwayTestApi_HostAddress}}/api/user/{userId}
+Accept: application/json
+
+###
+
+POST {{TakeAwayTestApi_HostAddress}}/api/user/add
+Accept: application/json
+
+###
+
+POST {{TakeAwayTestApi_HostAddress}}/api/user/update
+Accept: application/json
+
+###
+
+DELETE {{TakeAwayTestApi_HostAddress}}/api/user/delete/{userId}
+Accept: application/json
+
+###
+

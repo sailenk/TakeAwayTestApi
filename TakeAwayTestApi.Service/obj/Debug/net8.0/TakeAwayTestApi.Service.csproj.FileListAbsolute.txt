@@ -1,0 +1,15 @@
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\bin\Debug\net8.0\TakeAwayTestApi.Service.deps.json
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\bin\Debug\net8.0\TakeAwayTestApi.Service.dll
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\bin\Debug\net8.0\TakeAwayTestApi.Service.pdb
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\bin\Debug\net8.0\TakeAwayTestApi.Presistance.dll
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\bin\Debug\net8.0\TakeAwayTestApi.Presistance.pdb
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.csproj.AssemblyReference.cache
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.AssemblyInfoInputs.cache
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.AssemblyInfo.cs
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.csproj.CoreCompileInputs.cache
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAway.695E9BF3.Up2Date
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.dll
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\refint\TakeAwayTestApi.Service.dll
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\TakeAwayTestApi.Service.pdb
+D:\Practice\TakeAwayTestApi\TakeAwayTestApi.Service\obj\Debug\net8.0\ref\TakeAwayTestApi.Service.dll
